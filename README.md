@@ -1,4 +1,4 @@
-intype-bundles-lua
+Lua Bundle
 ==================
 
-Lua Bundle
+For how to install, see http://inotai.com/intype/manual/15/bundles.
